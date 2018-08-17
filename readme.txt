@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git remote.
 Git branch dev.
+Git dev branch and master conflict.
